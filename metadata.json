@@ -1,0 +1,7 @@
+{
+  "name": "WizerWaste — Smart Food Rescue Network",
+  "description": "Functional food rescue platform connecting surplus food providers with community NGOs, featuring rule-based urgency-distance prioritization and end-to-end pickup tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
